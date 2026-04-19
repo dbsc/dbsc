@@ -18,7 +18,7 @@
 ---
 
 ## 19.04.2026 - Internet Connectivity
-**Source:** [roadmap.sh: Networking](https://roadmap.sh/computer-science)
+**Source:** [roadmap.sh: Networking](https://nordvpn.com/blog/network-connection-types/)
 
 * **Wired Connections** - Cables like Ethernet (high stability) and DSL (phone lines). Faster and more reliable.
 * **Wireless Connections** - Wi-Fi, Cellular (4G/5G), and Bluetooth. High mobility but prone to interference.
