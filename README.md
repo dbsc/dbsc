@@ -1,7 +1,7 @@
-## Hi there 👋
+ ## Hi there 👋
 
 # dbsc
 
--  Following [roadmap.sh/cyber-security](https://roadmap.sh/cyber-security)
+-  Following [thm(https://tryhackme.com/p/dbsc)
 -  Documenting everything I learn from zero.
 - [ My Learning Journey](./LEARNING.md)
