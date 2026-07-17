@@ -39,3 +39,5 @@
 
 ---
 i start study in thm https://tryhackme.com/p/dbsc
+
+Update: I have stopped maintaining this repository for now. I am currently focused on cryptographic research
