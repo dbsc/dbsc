@@ -23,17 +23,12 @@ I am passionate about creating tools that ensure security in the digital age. Cu
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dbsc&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsc&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### ⚡ Let's Connect
 *"Privacy is a fundamental human right."*
-
-<a href="https://t.me/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
 </div>
