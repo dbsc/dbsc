@@ -21,14 +21,6 @@ I am passionate about creating tools that ensure security in the digital age. Cu
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbsc&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsc&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### ⚡ Let's Connect
 *"Privacy is a fundamental human right."*
 </div>
