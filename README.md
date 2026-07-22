@@ -9,7 +9,6 @@
 ### 🔭 What I'm Doing Right Now
 *   **Rust:** Learning systems programming by breaking things and fighting the compiler.
 *   **Castor:** Designing a peer-to-peer, post-quantum distributed cloud storage based on pure resource barter (Time/Space) instead of crypto tokens. 
-*   **Linux:** Running and customizing my Arch Linux environment.
 
 ---
 
