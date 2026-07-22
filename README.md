@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Tools of the Trade
-<img src="https://skillicons.dev/icons?i=rust,linux,git,github,cargo" />
+<img src="https://skillicons.dev/icons?i=rust,linux,git,github" />
 
 ---
 
