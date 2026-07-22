@@ -1,26 +1,23 @@
 <div align="center">
 
-# Hello, world. 👋
+# Danil Bobrov 🦫
 
-**Building resilient systems at the intersection of privacy and code.**
-
----
-
-### 🛡️ About Me
-I am passionate about creating tools that ensure security in the digital age. Currently, my primary focus is diving deep into the capabilities of **Rust** and designing fault-tolerant, secure systems.
-
-### 🔭 Current Focus
-*   **Cryptography:** Researching data protection methods and modern cryptographic protocols.
-*   **Systems Programming:** Mastering Rust to write high-performance, memory-safe code.
-*   **Ursa Chat:** Developing a privacy-first messaging protocol centered on zero-knowledge technology and anonymity.
+**Building decentralized infrastructure for human digital freedom.**
 
 ---
 
-### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=rust,linux,docker,git,github" />
+### 🔭 What I'm Doing Right Now
+*   **Rust:** Learning systems programming by breaking things and fighting the compiler.
+*   **Castor:** Designing a peer-to-peer, post-quantum distributed cloud storage based on pure resource barter (Time/Space) instead of crypto tokens. 
+*   **Linux:** Running and customizing my Arch Linux environment.
 
 ---
 
-### ⚡ Let's Connect
-*"Privacy is a fundamental human right."*
+### 🛠 Tools of the Trade
+<img src="https://skillicons.dev/icons?i=rust,linux,git,github" />
+
+---
+
+*"Privacy is not an option, it's a boundary."*
+
 </div>
