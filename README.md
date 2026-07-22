@@ -8,7 +8,7 @@
 
 ### 🔭 What I'm Doing Right Now
 **Rust:** Learning systems programming from scratch.
-**Castor:** Free cloud storage. Building an open-source P2P network where you share your drive space and get secure cloud in return.
+* **Castor:** Free cloud storage. Building an open-source P2P network where you share your drive space and get secure cloud in return.
 
 ---
 
