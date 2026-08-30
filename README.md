@@ -1,8 +1,6 @@
 <div align="center">
 
-# Danil Bobrov 🦫
-
-**Building decentralized infrastructure for human digital freedom.**
+# dbsc 🦫
 
 ---
 
